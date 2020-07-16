@@ -2,10 +2,51 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Search{
+  width: 500px;
+  height: 25px;
+  margin-bottom: 25px;
 }
+
+.Buttons button{
+  width: 100px;
+  height: 65px;
+  margin: 5px;
+  background-color: gray;
+}
+
+.TaskInput{
+  width: 500px;
+  height: 25px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.AddBtn{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+.Progress{
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
