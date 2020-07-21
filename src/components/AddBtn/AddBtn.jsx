@@ -1,4 +1,5 @@
 import React from 'react';
+import "./AddBtn.scss";
 
 function AddBtn(){
     return(
